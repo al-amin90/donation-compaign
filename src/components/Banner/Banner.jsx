@@ -26,7 +26,7 @@ const Banner = () => {
                     />
                     <Button
                         size="sm"
-                        className="!absolute right-0 py-3 bg-[#FF444A]  rounded-r rounded-l-none normal-case"
+                        className="!absolute right-0 py-3 bg-[#FF444A]  rounded-r-lg rounded-l-none normal-case"
                     >
                         Search
                     </Button>
